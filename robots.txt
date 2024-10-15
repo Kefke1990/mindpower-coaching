@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://mindpower-coaching.be/sitemap.xml
